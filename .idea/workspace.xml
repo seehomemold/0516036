@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27aa3a64-8b75-4287-8e0a-167080c58b37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="98" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZWVdoP6A6jPTZV4mBamsSiwMqj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="lab2" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.PriorityQueueTest (1)">
+    <configuration name="PriorityQueueTest (1)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest.SayHello" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="METHOD_NAME" value="SayHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.PriorityQueueTest (1)" />
+        <item itemvalue="Android JUnit.PriorityQueueTest" />
+        <item itemvalue="Android JUnit.PriorityQueueTest.SayHello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27aa3a64-8b75-4287-8e0a-167080c58b37" name="Default Changelist" comment="" />
+      <created>1584954926683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584954926683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1586957816557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586957816557" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585012594242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585012594242" />
+    <state x="1170" y="299" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585036999276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="299" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585036999276" />
+    <state x="681" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586957957915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586957957915" />
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585030117085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585030117085" />
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585029461527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585029461527" />
+    <state x="801" y="416" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585013078264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="416" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1585013078264" />
+    <state x="1220" y="264" key="FileChooserDialogImpl" timestamp="1585105179183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585105179183" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586968854829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586968854829" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586968854829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586968854829" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586968854829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586968854829" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586968854829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586968854829" />
+    <state x="734" y="36" key="SettingsEditor" timestamp="1586968579078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="36" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586968579078" />
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586998453250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586998453250" />
+    <state x="181" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585035368725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="181" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1585035368725" />
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585035005512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585035005512" />
+    <state x="631" y="71" key="new project wizard" timestamp="1585812503690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="71" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585812503690" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1586957722677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586957722677" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2$PriorityQueueTest_SayHello.ic" NAME="PriorityQueueTest.SayHello Coverage Results" MODIFIED="1585035478723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lab2$PriorityQueueTest.ic" NAME="PriorityQueueTest Coverage Results" MODIFIED="1585038958553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
