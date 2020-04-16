@@ -45,7 +45,7 @@ class PriorityQueueTest{
                 Arguments.of(new int[]{1,2,1,1,1,2,3,1}, new int[]{1,1,1,1,1,2,2,3}),
                 Arguments.of(new int[]{8,9,5,7,1,5,3,3}, new int[]{1,3,3,5,5,7,8,9}),
                 Arguments.of(new int[]{5,5,5,5,5,5,5,1}, new int[]{1,5,5,5,5,5,5,5}),
-                Arguments.of(new int[]{9,7,6,5,4,3,2,1}, new int[]{1,2,3,4,5,6,7,9})
+                Arguments.of(new int[]{8,7,6,5,4,3,2,1}, new int[]{1,2,3,4,5,6,7,9})
         );
     }
 
